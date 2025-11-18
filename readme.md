@@ -14,5 +14,6 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
-[Uploading screen-capture (16).webm…]()
 
+
+[screen-capture (16).webm](https://github.com/user-attachments/assets/7671c88e-6c17-4e4c-95da-2844ddfe76a6)
